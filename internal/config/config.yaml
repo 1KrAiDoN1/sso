@@ -1,0 +1,4 @@
+grpc_server:
+  port: "4404"
+  timeout: 4s
+  token_ttl: 1h
