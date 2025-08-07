@@ -11,7 +11,7 @@ require (
 	github.com/jackc/pgx/v5 v5.7.5
 	github.com/joho/godotenv v1.5.1
 	github.com/rs/zerolog v1.34.0
-	github.com/sj-shoff/protos v0.0.2
+	github.com/1KrAiDoN1/protos v0.0.2
 	github.com/stretchr/testify v1.9.0
 	golang.org/x/crypto v0.40.0
 	google.golang.org/grpc v1.74.2
